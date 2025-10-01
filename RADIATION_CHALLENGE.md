@@ -66,3 +66,8 @@ To address these challenges, we need:
 ## Timeline Implications
 
 The gap in our understanding of deep space radiation effects necessitates dedicated precursor missions and extensive testing before committing to human Mars missions. This is not an obstacle but a prerequisite for mission success.
+
+
+## Recent Developments (Artemis II, 2025)
+
+NASA’s Artemis II mission aims to extend human travel beyond low Earth orbit and includes several experiments to characterize deep space radiation. Radiation sensors inside the Orion spacecraft will collect real-time measurements of shielding performance and radiation exposure. The crew will carry dosimeters and operate radiation monitors placed throughout the cabin to alert them during solar storms. CubeSats deployed during the mission will probe the near-Earth and deep-space radiation environments, helping scientists refine shielding strategies at varying distances from Earth. Additionally, organ-on-a-chip devices containing astronaut-derived human cells will measure how deep-space radiation and microgravity affect human tissues. The data from these experiments will inform future Mars missions and underscore the urgency of direct deep-space radiation studies.
